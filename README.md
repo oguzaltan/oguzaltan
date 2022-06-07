@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @oguzaltan
 - 👀 I’m interested in robotics, machine learning, artificial intelligence, control theory and signal processing
-- 📫 you can reach me by ouz.altan@rwth-aachen.de or oguzaltan148@gmail.com
+- 📫 You can reach me by ouz.altan@rwth-aachen.de or oguzaltan148@gmail.com
+- 📫 My LinkedIn profile www.linkedin.com/in/oguzaltan
