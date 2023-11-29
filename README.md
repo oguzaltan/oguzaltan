@@ -1,5 +1,5 @@
 - Personal Website: [oguzaltan.github.io](https://oguzaltan.github.io/)
 - My LinkedIn profile: [linkedin.com/in/oguzaltan](linkedin.com/in/oguzaltan)
 - 👋 Hi, I’m @oguzaltan
-- 👀 I’m interested in multi-agent reinforcement learning, intelligent systems, robotics, control theory and computer vision
+- 👀 I’m interested in deep learning, multi-agent reinforcement learning, intelligent systems, robotics, control theory and computer vision
 - 📫 You can reach me by ouz.altan@rwth-aachen.de or oguzaltan148@gmail.com
