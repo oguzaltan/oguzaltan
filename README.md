@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oguzaltan
-- 👀 I’m interested in intelligent systems, robotics, deep learning, reinforcement learning, control theory, and computer vision
+- 👀 I’m interested in machine learning, deep learning, reinforcement learning, control theory, robotics, and intelligent systems
 - 📫 You can reach me by oguzaltan148@gmail.com or ouz.altan@rwth-aachen.de
 - Personal Website: [oguzaltan.github.io](https://oguzaltan.github.io/)
 - My LinkedIn profile: [linkedin.com/in/oguzaltan](linkedin.com/in/oguzaltan)
