@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oguzaltan
-- 👀 I’m interested in AI, machine learning, deep learning, reinforcement learning, robotics, and intelligent systems.
-- 📫 You can reach me by oguzaltan148@gmail.com or ouz.altan@rwth-aachen.de
+- 👀 Interested in: AI, robotics, autonomous systems, machine learning, deep learning, reinforcement learning
+- 📫 You can reach me at oguzaltan148@gmail.com or oguz.altan@fhdw.de
 - Personal Website: [oguzaltan.github.io](https://oguzaltan.github.io/)
-- My LinkedIn profile: [linkedin.com/in/oguzaltan](linkedin.com/in/oguzaltan)
+- LinkedIn profile: [linkedin.com/in/oguzaltan](linkedin.com/in/oguzaltan)
