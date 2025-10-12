@@ -1,17 +1,17 @@
 # 👋 Hi there, I'm **Oguz Altan**
-I am a researcher at the University of Applied Sciences (FHDW) Paderborn, working on the SilvaBot project — a fully autonomous system for scalable, climate-adapted forest conversion. My research focuses on the development of robotics software architectures for ground and aerial robots, including multi-sensor fusion, task and motion planning, navigation, mapping, perception, swarm intelligence, and obstacle avoidance in dynamic environments.
+I am a researcher at the **University of Applied Sciences (FHDW) Paderborn**, working on the **SilvaBot** project — a fully autonomous system for scalable, climate-adapted forest conversion. My research focuses on the development of **robotics software architectures** for ground and aerial robots, including multi-sensor fusion, task and motion planning, navigation, mapping, perception, swarm intelligence, and obstacle avoidance in dynamic environments.
 
-I hold an M.Sc. in Electrical Engineering, Information Technology, and Computer Engineering from RWTH Aachen University (specialization: Systems and Automation) and a B.Sc. in Electrical and Electronics Engineering from Bilkent University. My interests lie at the intersection of AI and robotics, including machine learning, deep reinforcement learning, multi-agent systems, and control theory.
+I hold an M.Sc. in Electrical Engineering, Information Technology, and Computer Engineering from **RWTH Aachen University** (specialization: Systems and Automation) and a B.Sc. in Electrical and Electronics Engineering from **Bilkent University**. My interests lie at the intersection of **AI and robotics**, including machine learning, deep reinforcement learning, multi-agent systems, and control theory.
 
-Previously, I optimized UAV trajectories using multi-agent deep reinforcement learning at Fraunhofer FKIE, developed an autonomous ground robot for my Bachelor’s project, and contributed to AI-driven process monitoring in Siemens’ Wire Arc Additive Manufacturing (WAAMAI) project. I also gained experience in embedded systems and signal processing during my internship at Fraunhofer IIS.
+Previously, I optimized UAV trajectories using **multi-agent deep reinforcement learning** at **Fraunhofer FKIE**, developed an **autonomous ground robot** for my Bachelor’s project, and contributed to **AI-driven process monitoring** in **Siemens**’ Wire Arc Additive Manufacturing (WAAMAI) project. I also gained experience in **embedded systems** during my internship at **Fraunhofer IIS**.
 
 ---
 
 ## 📚 Areas of Interest
-- **Machine Learning & AI:** Exploring intelligent systems at the intersection of robotics and learning, including deep reinforcement learning, multi-agent systems, and deep learning for autonomous decision-making.
-- **Robotics Software Engineering:** Developing software architectures for autonomy, with focus on multi-sensor fusion, task and motion planning, navigation, mapping, perception, swarm intelligence, and obstacle avoidance in dynamic environments.
-- **Control & Optimization:** Applying control theory, trajectory optimization, and learning-based control methods to enhance the performance and robustness of robotic systems.
-- **Software Development:** Committed to writing scalable, maintainable, and modular code for research and real-world robotics and AI applications.
+- **Machine Learning & AI:** Deep and reinforcement learning, multi-agent systems, and adaptive intelligence for autonomous decision-making.
+- **Robotics Software Engineering:** Autonomy architectures with multi-sensor fusion, planning, navigation, mapping, perception, swarm intelligence, and obstacle avoidance.
+- **Control & Optimization:** Control theory, trajectory optimization, and learning-based control for robust and efficient robot behavior.
+- **Software Development:** Writing scalable, modular, and maintainable software for real-world robotics and AI systems.
 
 ---
 
