@@ -8,13 +8,13 @@ Previously, I optimized UAV trajectories using multi-agent deep reinforcement le
 ---
 
 ## 📚 Areas of Interest
-
-- **Machine Learning & AI:** I enjoy exploring cutting-edge machine learning advancements from model deployment to fine-tuning algorithms.
-- **Data Engineering:** I’m delving into database management and optimization for efficient data handling. 
-- **Software Development:** Continuously learning and implementing best practices for scalable, maintainable code.
+- **Machine Learning & AI:** Exploring intelligent systems at the intersection of robotics and learning, including deep reinforcement learning, multi-agent systems, and deep learning for autonomous decision-making.
+- **Robotics Software Engineering:** Developing software architectures for autonomy, with focus on multi-sensor fusion, task and motion planning, navigation, mapping, perception, swarm intelligence, and obstacle avoidance in dynamic environments.
+- **Control & Optimization:** Applying control theory, trajectory optimization, and learning-based control methods to enhance the performance and robustness of robotic systems.
+- **Software Development:** Committed to writing scalable, maintainable, and modular code for research and real-world robotics and AI applications.
 
 ---
-  
+
 ## 🛠️ Tools & Tech
 
 | Category         | Technologies |
