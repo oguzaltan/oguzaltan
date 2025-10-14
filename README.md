@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm **Oguz Altan**
-I am a researcher at the **University of Applied Sciences (FHDW) Paderborn**, working on the **SilvaBot** project — a fully autonomous system for scalable, climate-adapted forest conversion. My research focuses on the development of **robotics software and hardware architectures** for ground and aerial robots.
+I am a researcher at the **University of Applied Sciences (FHDW) Paderborn**, working on the **SilvaBot** project, which is a fully autonomous system for scalable, climate-adapted forest conversion. My research focuses on the development of **robotics software and hardware architectures** for ground and aerial robots.
 
 I hold an M.Sc. in Electrical Engineering, Information Technology, and Computer Engineering from **RWTH Aachen University** and a B.Sc. in Electrical and Electronics Engineering from **Bilkent University**. My interests lie at the intersection of **AI and robotics**, including machine learning, deep reinforcement learning, multi-agent systems, and control theory.
 
