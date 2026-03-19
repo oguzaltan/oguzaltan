@@ -31,7 +31,7 @@ Previously, I optimized UAV trajectories using **multi-agent deep reinforcement 
 
 ## 📫 Let's Connect
 - **Email:** oguzaltan148@gmail.com or oguz.altan@fhdw.de
-- **LinkedIn:** [linkedin.com/in/oguzaltan](linkedin.com/in/oguzaltan)
+- **LinkedIn:** [linkedin.com/in/oguzaltan](https://www.linkedin.com/in/oguzaltan)
 - **Personal Website:** [oguzaltan.github.io](https://oguzaltan.github.io/) 
 
 ---
