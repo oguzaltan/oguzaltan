@@ -29,13 +29,6 @@ Previously, I optimized UAV trajectories using **multi-agent deep reinforcement 
 
 ---
 
-## 📫 Let's Connect
-- **Email:** oguzaltan148@gmail.com or oguz.altan@fhdw.de
-- **LinkedIn:** [linkedin.com/in/oguzaltan](https://www.linkedin.com/in/oguzaltan)
-- **Personal Website:** [oguzaltan.github.io](https://oguzaltan.github.io/) 
-
----
-
 <p align="center">
   <em>“Actions such as his could come only from a robot, or from a very honorable and decent human being.<br>
   But you see, you can’t differentiate between a robot and the very best of humans.”</em><br>
