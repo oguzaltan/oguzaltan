@@ -10,10 +10,9 @@ Previously, I optimized UAV trajectories using **multi-agent deep reinforcement 
 ---
 
 ## 📚 Areas of Interest
-- **Machine Learning & AI:** Deep and reinforcement learning, multi-agent systems, and adaptive intelligence for autonomous decision-making.
-- **Robotics Software Engineering:** Autonomy architectures with multi-sensor fusion, planning, navigation, mapping, perception, swarm intelligence, and obstacle avoidance.
-- **Control & Optimization:** Control theory, trajectory optimization, and learning-based control for robust and efficient robot behavior.
-- **Software Development:** Writing scalable, modular, and maintainable software for real-world robotics and AI systems.
+- **AI & Machine Learning:** Deep learning, reinforcement learning, multi-agent systems, adaptive intelligence for autonomous decision-making.
+- **Robotics Software & Hardware:** Autonomy architectures with multi-sensor fusion, planning, navigation, mapping, perception, embedded systems.
+- **Control & Optimization:** Control theory, trajectory optimization, learning-based control for robust and efficient robot behavior.
 
 ---
 
@@ -22,10 +21,10 @@ Previously, I optimized UAV trajectories using **multi-agent deep reinforcement 
 | Category         | Technologies |
 |------------------|--------------|
 | **Programming**    | Python, C++, MATLAB, SQL, Java, LaTeX, VHDL, Assembly |
-| **Robotics**     | ROS 2, Gazebo, Simulink, RViz, Nav2, SLAM Toolbox, BehaviorTree.CPP |
+| **Robotics**     | ROS 2, Gazebo, RViz, Nav2, SLAM Toolbox, BehaviorTree.CPP |
+| **Hardware**     | NVIDIA Jetson, Pixhawk, STM32 |
 | **AI & Machine Learning**      | PyTorch, TensorFlow, Scikit-Learn, Ray, OpenAI Gym, NumPy, Pandas, SciPy |
 | **Tools & Software**        | Linux, Git, Docker, EAGLE |
-| **Embedded**     | NVIDIA Jetson, Pixhawk |
 
 ---
 
